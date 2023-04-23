@@ -10,7 +10,7 @@
     "allowImportingTsExtensions": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
-    "suppressImplicitAnyIndexErrors": true,
+    "ignoreDeprecations": "5.0",
     "module": "ESNext",
     "moduleResolution": "Node",
     "resolveJsonModule": true,

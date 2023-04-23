@@ -13,7 +13,7 @@ const PageHeader = () => {
     return (
         <Header>
             <div className='flex w-full xl:container xl:m-auto items-center'>
-                <label for='side-menu' className='flex-none lg:hidden btn btn-square btn-ghost w-10 sm:w-auto'>
+                <label htmlFor='side-menu' className='flex-none lg:hidden btn btn-square btn-ghost w-10 sm:w-auto'>
                     <CgMenu />
                 </label>
                 <h1 className='shrink-0 flex md:flex-none flex-1 mx-1 sm:mx-2'>
